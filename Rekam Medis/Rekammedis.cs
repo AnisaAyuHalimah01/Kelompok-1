@@ -9,18 +9,20 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Data.SqlClient;
 
+
 namespace Rekam_Medis
 {
-    public partial class Obat : Form
+    public partial class Rekammedis : Form
     {
-        public Obat()
+        public Rekammedis()
         {
             InitializeComponent();
         }
-        SqlConnection con = new SqlConnection
-       (@"Data Source=DESKTOP-66R1JFH;Initial Catalog=rekammedis;Integrated Security = True");
 
-        private void Obat_Load(object sender, EventArgs e)
+        SqlConnection con = new SqlConnection
+       (@"Data Source=LAPTOP-TIOR7MTC;Initial Catalog=rekammedis;Integrated Security = True");
+
+        private void label2_Click(object sender, EventArgs e)
         {
 
         }
@@ -35,6 +37,11 @@ namespace Rekam_Medis
             this.Hide();
             Base panggil = new Base();
             panggil.Show();
+        }
+
+        private void btncari_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

@@ -11,24 +11,15 @@ using System.Data.SqlClient;
 
 namespace Rekam_Medis
 {
-    public partial class Obat : Form
+    public partial class Pembayaran : Form
     {
-        public Obat()
+        public Pembayaran()
         {
             InitializeComponent();
         }
         SqlConnection con = new SqlConnection
-       (@"Data Source=DESKTOP-66R1JFH;Initial Catalog=rekammedis;Integrated Security = True");
+       (@"Data Source=LAPTOP-TIOR7MTC;Initial Catalog=rekammedis;Integrated Security = True");
 
-        private void Obat_Load(object sender, EventArgs e)
-        {
-
-        }
-
-        private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
-        {
-
-        }
 
         private void button4_Click(object sender, EventArgs e)
         {
