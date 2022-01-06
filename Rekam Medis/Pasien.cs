@@ -165,6 +165,7 @@ namespace Rekam_Medis
             dgvpasien.DataSource = ds;
             dgvpasien.DataMember = "Pasien";
             dgvpasien.ReadOnly = true;
+            //ini tiara
         }
     }
 }
