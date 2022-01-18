@@ -14,3 +14,6 @@ D:\Semester 5\.Net\Praktikum\Final Projek 1\Rekam Medis\Rekam Medis\obj\Debug\Re
 D:\Semester 5\.Net\Praktikum\Final Projek 1\Rekam Medis\Rekam Medis\obj\Debug\Rekam_Medis.Pasien.resources
 D:\Semester 5\.Net\Praktikum\Final Projek 1\Rekam Medis\Rekam Medis\obj\Debug\Rekam_Medis.Poli.resources
 D:\Semester 5\.Net\Praktikum\Final Projek 1\Rekam Medis\Rekam Medis\obj\Debug\Rekam_Medis.Rekammedis.resources
+D:\ODI\SEMESTER 5\.NET\projek akhir\Final Projek 1\Final Projek 1\Final Projek 1\Rekam Medis\Rekam Medis\bin\Debug\Rekam Medis.exe.config
+D:\ODI\SEMESTER 5\.NET\projek akhir\Final Projek 1\Final Projek 1\Final Projek 1\Rekam Medis\Rekam Medis\obj\Debug\Rekam Medis.exe
+D:\ODI\SEMESTER 5\.NET\projek akhir\Final Projek 1\Final Projek 1\Final Projek 1\Rekam Medis\Rekam Medis\obj\Debug\Rekam Medis.pdb
